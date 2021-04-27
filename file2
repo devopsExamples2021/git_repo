@@ -1,2 +1,9 @@
 Hello World Again
 Welcome to Git sessions
+#include<stdio.h>
+void main()
+{
+int a=10;
+int b=0;
+printf("division by zero", a/b);
+}
